@@ -1,0 +1,306 @@
+body{
+				background-image:url(display.jpeg);
+				
+}
+
+.full{
+				border:none;
+				margin:auto;
+				display:block;
+				text-decoration:none;
+				background-color:black;
+				color:white;
+				padding:10px;
+				border-radius:3px;
+				margin-top:50%;
+				width:40%;
+				font-weight:bold;
+}
+
+
+
+.nembak{
+				text-align:center;
+				color:white;
+				display:none;
+				
+}
+
+.bahwa{
+				text-align:center;
+				color:white;
+				display:none;
+				
+}
+
+.sebener{
+				text-align:center;
+				color:white;
+				display:none;
+			  
+}
+
+.makan{
+				text-align:center;
+				color:white;
+				display:none;
+}
+
+.jalan{
+				text-align:center;
+				color:white;
+				display:none;
+}
+
+.chat{
+				text-align:center;
+				color:white;
+				display:none;
+}
+
+.semuanya{
+				text-align:center;
+				color:white;
+				display:none;
+}
+
+.jadi{
+				text-align:center;
+				color:white;
+				display:none;
+}
+
+.suka{
+				text-align:center;
+				color:white;
+				display:none;
+}
+
+.kamu{
+				text-align:center;
+				color:white;
+				display:none;
+}
+
+.bot{
+				width:15%;
+				border-radius:50px;
+				margin:auto;
+				display:block;
+}
+
+.isi{
+				margin-top:30%;
+			
+				
+				
+}
+
+
+.type{
+				  color: #fff;
+				   font-family:; 
+				   overflow: hidden; /* Ensures the content is not revealed until the animation */ 
+				   border-right: .10em solid orange; /* The typwriter cursor */ 
+				   white-space: nowrap; /* Keeps the content on a single line */ 
+				   margin-left: 12%;
+				   margin-right:12%;
+				   font-size:12px; /* Gives that scrolling effect as the typing happens */
+				    letter-spacing: .5em; /* Adjust as needed */ 
+				    animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite; } 
+				    /* The typing effect */ @keyframes typing { from { width: 0 } to { width: 100% } }
+				     /* The typewriter cursor effect */ @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: orange } 
+				     display:none;
+				     
+				     
+				     
+				     
+				
+				
+}
+
+
+
+
+.nanya{
+				border:none;
+				text-decoration:none;
+				background-color:black;
+				border-radius:3px;
+				padding:15px;
+				float:right;
+				color:white;
+				
+				
+}
+
+.tidak{
+				border:none;
+				text-decoration:none;
+				background-color:black;
+				border-radius:3px;
+				padding:14px;
+				float:left;
+				color:white;
+				
+				
+}
+
+.bottom{
+				text-align:center;
+				
+				
+				margin-left:15%;
+				margin-right:15%;
+}
+
+.semua{
+				display:none;
+}
+
+.aku{
+				color:white;
+				font-family:Cursive;
+				font-size:25px;
+				text-align:center;
+				display:none;
+}
+
+.denger{
+				text-align:center;
+				font-family:Cursive;
+				font-size:25px;
+				color:white;
+				margin-op:-13%;
+				display:none;
+}
+
+.tapi{
+				text-align:center;
+				font-family:Cursive;
+				font-size:25px;
+				color:white;
+				margin-tp:-13%;
+				display:none;
+}
+
+
+.yuk{
+				text-align:center;
+				font-family:Cursive;
+				font-size:25px;
+				color:white;
+				margin-tp:-13%;
+				display:none;
+}
+
+
+.musik{
+				
+				text-decoration:none;
+				margin-left:40%;
+				display:none;
+				
+				color:white;
+				
+				
+				width:20%;
+				
+				margin-top:30%;
+				
+}
+
+.mus{
+				margin-left:35%;
+				dispay:none;
+				
+}
+
+
+.mulai{
+				margin-left:35%;
+				border:none;
+			  text-decoration:none;
+			  background-color:black;
+			  color:white;
+			  width:25%;
+			  padding:10px;
+			  border-radius:3px;
+			  display:none;
+}
+
+.playmus{
+				margin-left:40%;
+				border:none;
+				background-color:black;
+			  color:white;
+			  width:25%;
+			  padding:10px;
+			  border-radius:3px;
+			  display:none;
+}
+
+
+.hasil{
+				margin-left:15%;
+				margin-right:15%;
+}
+.mau2{
+				border:none;
+				text-decoration:none;
+				background-color:black;
+				border-radius:3px;
+				padding:15px;
+				float:right;
+				color:white;
+				display:none;
+}
+
+.tidak2{
+				border:none;
+				text-decoration:none;
+				background-color:black;
+				border-radius:3px;
+				padding:15px;
+				float:left;
+				color:white;
+				display:none;
+}
+
+.buka{
+				border:none;
+				text-decoration:none;
+				background-color:black;
+				border-radius:3px;
+				padding:15px;
+				margin-left:30%;
+				color:white;
+				display:none;
+}
+
+.dogy{
+				width:25%;
+				margin-left:25%;
+				
+}
+
+.akhir{
+				margin-left:18%;
+				color:white;
+				display:none;
+				
+				
+}
+
+.no{
+				color:white;
+				margin-left:30%;
+				display:none;
+				
+}
+
+.sad{
+				width:25%;
+				margin-left:20%;
+				
+}
