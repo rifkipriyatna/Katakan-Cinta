@@ -573,7 +573,7 @@ $(document).ready(function(){
      				
      				
      				
-     				</div>
+     				
      
 				
 </body>
