@@ -532,7 +532,7 @@ $(document).ready(function(){
      	
      	
      	
-     	<br><br><br><br><br>
+     	<br><br><br>
      	
      	<button class="playmus" id="playmus">Play Musik</button>
      		
