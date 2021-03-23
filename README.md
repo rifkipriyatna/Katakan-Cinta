@@ -464,7 +464,7 @@ $(document).ready(function(){
      					<p>Tapi sebelum itu</p>
      	</div>
      	
-     	<div class="yuk" id="yuk" class="w3-container w3-center w3-animate-zoom">
+     	<div class="yuk" id="yuk" >
      					<p>Denger musik dulu yuk</p>
      	</div>
      	
