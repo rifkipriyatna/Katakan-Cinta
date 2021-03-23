@@ -341,7 +341,7 @@ $(document).ready(function(){
 				text-decoration:none;
 				background-color:black;
 				border-radius:3px;
-				padding:15px;
+				padding:10px;
 				float:right;
 				color:white;
 				display:none;
@@ -352,7 +352,7 @@ $(document).ready(function(){
 				text-decoration:none;
 				background-color:black;
 				border-radius:3px;
-				padding:15px;
+				padding:10px;
 				float:left;
 				color:white;
 				display:none;
@@ -532,7 +532,7 @@ $(document).ready(function(){
      	
      	
      	
-     	<br><br><br>
+     	<br>
      	
      	<button class="playmus" id="playmus">Play Musik</button>
      		
