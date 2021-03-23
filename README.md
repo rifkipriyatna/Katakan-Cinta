@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="in">
 <head>
 				<title>Simp Anjeng</title>
